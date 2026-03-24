@@ -1,7 +1,5 @@
 # Chirag Patel (CP)
-
 **Head of Europe – AI & Digital Transformation at Hidden Brains**
-
 📍 Munich, Germany &nbsp;·&nbsp; DACH &nbsp;·&nbsp; BENELUX &nbsp;·&nbsp; Nordics  
 🏆 Stevie® Award Winner — Technology Excellence
 
@@ -23,12 +21,20 @@ services to design and implement practical AI adoption strategies and digital tr
 
 ---
 
+## Featured
+
+📌 **[Chirag Patel — Head of Europe, AI & Digital Transformation at Hidden Brains](https://www.hiddenbrains.com/blog/chirag-patel-head-of-europe.html)**  
+Official profile page covering background, focus areas, and work across European enterprise markets.
+
+---
+
 ## Connect & Read
 
 | | |
 |---|---|
 | 🌐 Official website | [chiragpateltech.com](https://chiragpateltech.com) |
 | 💼 LinkedIn | [linkedin.com/in/cp-chiragpatel](https://www.linkedin.com/in/cp-chiragpatel) |
+| 🏢 Hidden Brains profile | [chirag-patel-head-of-europe](https://www.hiddenbrains.com/blog/chirag-patel-head-of-europe.html) |
 | ✍️ Hidden Brains articles | [hiddenbrains.com/blog/author/chiragpatel](https://www.hiddenbrains.com/blog/author/chiragpatel) |
 | 📝 Medium | [medium.com/@chiragpateltech](https://medium.com/@chiragpateltech) |
 | 📰 Substack | [substack.com/@chiragpateltech](https://substack.com/@chiragpateltech) |
